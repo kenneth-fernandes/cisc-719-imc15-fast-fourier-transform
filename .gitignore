@@ -1,0 +1,32 @@
+.DS_Store
+knowledge/IMC01/.DS_Store
+knowledge/IMC01/~$IMC01.docx
+knowledge/IMC01/~$rvey Paper-Rough Work.docx
+knowledge/IMC01/IMC01.docx
+knowledge/IMC01/Survey Paper-Rough Work.docx
+knowledge/IMC01/References/3_ASAN~1-1.pdf
+knowledge/IMC01/References/Survey Paper-Rough Work.docx
+knowledge/IMC03/.DS_Store
+knowledge/IMC03/Feedback/CISC_719_IMC03_FlashAttention_Summative_Feedback_Kenneth.pdf
+knowledge/IMC03/References/.DS_Store
+knowledge/IMC03/References/Dense_Attention_A_Densely_Connected_Attention_Mechanism_for_Vision_Transformer.pdf
+knowledge/IMC03/References/FlashAttention- Fast and Memory-Efficient Exact Attention with IO-Awareness.pdf
+knowledge/IMC03/References/FlashAttention-2- Faster Attention with Better Parallelism and Work Partitioning.pdf
+knowledge/IMC03/References/FlashAttention-3- Fast and Accurate Attention with Asynchrony and Low-precision.pdf
+knowledge/IMC03/References/Generating Long Sequences with Sparse Transformers.pdf
+knowledge/IMC03/References/Sparse Attention Mechanisms in Large Language Models-Applications, Classification, Performance Analysis and Optimization.pdf
+knowledge/IMC03/References/FInal/Attention Is All You Need.pdf
+knowledge/IMC03/References/FInal/FlashAttention- Fast and Memory-Efficient Exact Attention with IO-Awareness.pdf
+knowledge/IMC03/References/FInal/LLaMA- Open and Efficient Foundation Language Models.pdf
+knowledge/IMC03/References/FInal/Retentive Network- A Successor to Transformer for Large Language Models.pdf
+knowledge/IMC03/Repository/.DS_Store
+knowledge/IMC08/.DS_Store
+knowledge/IMC11/.DS_Store
+knowledge/IMC11/cisc-719-imc11-modern-matmat-mul-gemm/.DS_Store
+knowledge/IMC11/cisc-719-imc11-modern-matmat-mul-gemm/assets/IMC11_Distributed_GEMM_MPI_Dask_MiniLab_Guide.docx
+knowledge/IMC11/cisc-719-imc11-modern-matmat-mul-gemm/assets/IMC11_Distributed_GEMM_MPI_Dask_MiniLab.ipynb
+knowledge/IMC11/cisc-719-imc11-modern-matmat-mul-gemm/assets/IMC11_GEMM_Colab_Nsight_Walkthrough.ipynb
+knowledge/IMC11/cisc-719-imc11-modern-matmat-mul-gemm/assets/IMC11_Roofline_Plot.ipynb
+knowledge/IMC11/cisc-719-imc11-modern-matmat-mul-gemm/assets/Quinn_Ch_11_Matrix Multiplication.pdf
+knowledge/IMC11/cisc-719-imc11-modern-matmat-mul-gemm/requirements/Assignment IMC11 - Modern Matrix–Matrix .md
+requirements/Quinn15_Fast Fourier Transformation.pdf
